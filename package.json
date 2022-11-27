@@ -1,0 +1,22 @@
+{
+  "name": "bkuzu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd server && npm install && cd ../client && npm install && npm run build",
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/prj1012/bkuzu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/prj1012/bkuzu/issues"
+  },
+  "homepage": "https://gitlab.com/prj1012/bkuzu#readme"
+}
