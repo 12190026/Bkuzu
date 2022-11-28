@@ -62,6 +62,6 @@ This can be a relational database management system such as PostgreSQL, MySQL, M
 server such as Cassandra, CouchDB or MongoDB.
 
 
-App Link: https://b-kuzu.herokuapp.com/
+App Link: https://bkuzuauth.herokuapp.com/
 
 Admin Link: https://app.appsmith.com/app/admin-panel/users-637b05bfb87c411aad42043a
